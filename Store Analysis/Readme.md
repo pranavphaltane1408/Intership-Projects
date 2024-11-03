@@ -105,5 +105,8 @@ The dashboard effectively tracks crucial business metrics and highlights areas r
 particularly in profitability management and cost control despite strong sales growth.
 
 # Snapshot -- 
+![Screenshot (21)](https://github.com/user-attachments/assets/922f4807-5b80-400f-bb73-2ade17aae5df)
+![Screenshot (22)](https://github.com/user-attachments/assets/872e2017-7a41-42e3-8b4f-6acf822f1781)
+![Screenshot (23)](https://github.com/user-attachments/assets/78ff7a28-1770-48b6-b8c5-0986b03b5dcb)
 
 

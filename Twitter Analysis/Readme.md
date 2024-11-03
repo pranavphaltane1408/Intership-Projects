@@ -126,3 +126,5 @@ The Twitter analytics dashboard reveals several key insights and opportunities:
 The dashboard effectively tracks social media performance and provides actionable insights for content strategy optimization and engagement improvement.
 
 # SnapShots -- 
+![Screenshot (24)](https://github.com/user-attachments/assets/9d143cee-306b-45eb-9ca7-b10645d811d0)
+![Screenshot (25)](https://github.com/user-attachments/assets/6b3efd15-9bff-4957-af2c-6617643f28a1)
